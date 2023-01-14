@@ -1,0 +1,57 @@
+('C:\\Workspace\\Catalogo de '
+ 'peliculas\\catalogo-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\catalogo_peliculas.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\catalogo-peliculas\\build\\catalogo_peliculas\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\env\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('catalogo_peliculas',
+   'C:\\Workspace\\Catalogo de '
+   'peliculas\\catalogo-peliculas\\catalogo-peliculas\\catalogo_peliculas.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
